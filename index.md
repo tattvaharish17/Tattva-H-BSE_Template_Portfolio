@@ -1,13 +1,13 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Ball Tracking Robot
+I built a Ball Tracking Robot that uses computer vision to detect and follow a moving ball in real time. One of the biggest challenges was tuning the robot’s responsiveness, but it was incredibly rewarding to see it accurately track movement after lots of testing and debugging. This project taught me how to integrate hardware and software while problem-solving through real-world engineering obstacles.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
+/You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
 ```
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| Tattva H | Westview High School | Data Science/Computer Engineering | Incoming Senior |
 |:--:|:--:|:--:|:--:|
 | FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
 
