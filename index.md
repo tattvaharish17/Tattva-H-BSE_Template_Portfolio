@@ -45,13 +45,36 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/shorts/XF4rx0iI2sM" title="First Milestone Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+I'm building a Ball Tracking Robot that uses computer vision to detect and follow a colored ball. The system integrates a camera module, microcontroller, motor drivers, and a chassis with wheels to enable real-time tracking and movement.
+Raspberry Pi processes video input and runs object detection using OpenCV.
+
+Camera Module captures live video.
+
+Motor Driver + DC Motors control movement based on ball position.
+
+Chassis holds all components and allows smooth mobility.
+
+Assembled the robot chassis and connected motor driver to Raspberry Pi.
+
+Set up Raspberry Pi and installed required libraries like OpenCV.
+
+Tested basic motor functions through Python code.
+
+Implementing color and shape detection using the camera.
+
+Calibrating the detection for different lighting conditions.
+
+Synchronizing motor response with ball location.- Challenges you're facing and solving in your future milestones
+
+Complete ball detection using OpenCV.
+
+Map ball position to movement logic.
+
+Test and refine tracking in various conditions.
+
+Finalize wiring and secure all components for presentation.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
